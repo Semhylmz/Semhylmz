@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Semih</h1>
-<h3 align="left">I'm a Flutter Developer.</h3>
+<h3 align="left">I'm a computer engineer and I develop mobile applications with Flutter.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
